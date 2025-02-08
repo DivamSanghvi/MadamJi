@@ -6,7 +6,7 @@ import confetti from "canvas-confetti"
 import { Heart } from "lucide-react"
 import photo from "../assets/photu.gif"
 
-import photo2 from "../assets/photu2.gif"
+import photo2 from "../assets/pHOTU2.gif"
 const ValentinePage = () => {
   const [step, setStep] = useState("intro1")
   const [messageIndex, setMessageIndex] = useState(0)
